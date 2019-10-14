@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">복약 Helper</string>
+    <string name="action_settings">Settings</string>
+    <string name="strBtn1">  </string>
+    <string name="strBtn2">  </string>
+    <string name="strBtn3">  </string>
+    <!-- <string name="strBtn4">  </string> -->
+    <string name="strBtn">  </string>
+</resources>
